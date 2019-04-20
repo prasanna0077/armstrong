@@ -34,7 +34,7 @@ class armstrong
 		{
 		    System.out.println(num + " is not an Armstrong number");
 		    System.out.println("***************************************");
-		    System.out.println("*** Better Luck Next Time...        ***");
+		    System.out.println("*** Better Luck Next Time!!!        ***");
 		    System.out.println("***************************************");
 		}
 	}
