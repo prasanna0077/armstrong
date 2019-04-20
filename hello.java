@@ -10,10 +10,10 @@ class hello
 	       	// display time and date using toString()
 	       	System.out.println(date.toString());
 		
-		System.out.println("***********************");
-		System.out.println("Hello Dev Ops Learners");
-		System.out.println("Hello Simplilearn Users");
-		System.out.println("***********************");
+		System.out.println("***************************************");
+		System.out.println("***     Hello Dev Ops Learners      ***");
+		System.out.println("*** Find a 3 digit Armstrong Number ***");
+		System.out.println("***************************************");
 
 		int num, number, temp, total = 0;
 		System.out.println("Ënter 3 Digit Number");
